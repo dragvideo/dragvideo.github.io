@@ -2,7 +2,7 @@
 
 This is the repository that contains the source code for the [DragVideo website](https://dragvideo.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find DragVideo useful for your work please cite:
 ```
 @article{deng2023dragvideo,
       title={Dragvideo: Interactive drag-style video editing},
